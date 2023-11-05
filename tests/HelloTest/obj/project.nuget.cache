@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Fk71jjKUKAIaMO0pYRo75N+zspht1VCC+ZhwWJmKVG4Jyljg691NnqMc3CJ5sNBriEjOc+4dnv2vdDDnwm0fvQ==",
+  "dgSpecHash": "N5NbW65SOYrj9iPYGneiouNGOUBEywWDNtBajY40uXmB8E54Lrk0XB0Rm5wlMUBm9CYJrYx4wVJqumd6qtW9mA==",
   "success": true,
   "projectFilePath": "C:\\dev\\MinimalApi\\tests\\HelloTest\\HelloTest.csproj",
   "expectedPackageFiles": [
